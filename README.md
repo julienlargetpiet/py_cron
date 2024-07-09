@@ -58,5 +58,10 @@ I want to be executed the first 15 seconds of each odd minutes (of all hours of 
 
 I simply run `python3 py_cron.py $(pwd)/test.sh 1-15.1/2.*.*.*.2024.*`
 
+## Requirements
 
+- `sys`
+- `datetime`
+- `time`
+- `subprocess`
 
