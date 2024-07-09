@@ -1,1 +1,0 @@
-echo executed >> out.txt
